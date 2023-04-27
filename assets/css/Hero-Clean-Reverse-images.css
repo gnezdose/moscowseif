@@ -1,0 +1,10 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.btn:hover {
+  color: #ffffff;
+  background: #649f7c;
+  border-color: #649f7c;
+}
+
